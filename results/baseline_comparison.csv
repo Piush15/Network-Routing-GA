@@ -1,0 +1,4 @@
+method,route,distance_km,delay_ms,congestion,objective_cost
+Dijkstra — distance only,A -> C -> F -> H,25.0,51.0,1.3,1.755897435897436
+Dijkstra — weighted multi-metric,A -> C -> E -> G -> H,26.0,53.0,0.48,1.572888888888889
+Genetic Algorithm,A -> D -> G -> H,26.0,57.0,0.73,1.6823333333333332
